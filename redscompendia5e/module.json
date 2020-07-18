@@ -8,19 +8,19 @@
 	"author": "Red Reign#5128",
 	"languages": [],
 	"systems": ["dnd5e"],
-	"esmodules": [],
+	"esmodules": ["scripts/main.js"],
 	"styles": [],
 	"packs": [
 	{
-		"name": "redsarmory",
+		"name": "armory",
 		"label": "Red's Armory",
-		"path": "packs/redsarmory.db",
+		"path": "packs/armory.db",
 		"entity": "Item",
 		"module": "world",
 		"system": "dnd5e"
 	}
 ],
-	"url": "https://github.com/RedReign/FoundryVTT-BetterRolls5e/tree/master/betterrolls5e",
-	"manifest": "https://raw.githubusercontent.com/RedReign/FoundryVTT-BetterRolls5e/master/betterrolls5e/module.json",
-	"download": "https://github.com/RedReign/FoundryVTT-BetterRolls5e/raw/master/betterrolls5e.zip"
+	"url": "https://github.com/RedReign/redscompendia5e/tree/master/redscompendia5e",
+	"manifest": "https://raw.githubusercontent.com/RedReign/redscompendia5e/master/redscompendia5e/module.json",
+	"download": "https://github.com/RedReign/redscompendia5e/raw/master/redscompendia5e.zip"
 }
