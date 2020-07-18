@@ -4,7 +4,7 @@
 	"description": "Adds cool homebrew for 5e courtesy of Red Reign.",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion": "0.6.5",
-	"version": "1.0",
+	"version": "1.1",
 	"author": "Red Reign#5128",
 	"languages": [],
 	"systems": ["dnd5e"],
