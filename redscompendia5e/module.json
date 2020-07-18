@@ -1,0 +1,26 @@
+{
+	"name": "redscompendia5e",
+	"title": "Red's Compendia for 5e",
+	"description": "Adds cool homebrew for 5e courtesy of Red Reign.",
+	"minimumCoreVersion": "0.6.0",
+	"compatibleCoreVersion": "0.6.5",
+	"version": "1.0",
+	"author": "Red Reign#5128",
+	"languages": [],
+	"systems": ["dnd5e"],
+	"esmodules": [],
+	"styles": [],
+	"packs": [
+	{
+		"name": "redsarmory",
+		"label": "Red's Armory",
+		"path": "packs/redsarmory.db",
+		"entity": "Item",
+		"module": "world",
+		"system": "dnd5e"
+	}
+],
+	"url": "https://github.com/RedReign/FoundryVTT-BetterRolls5e/tree/master/betterrolls5e",
+	"manifest": "https://raw.githubusercontent.com/RedReign/FoundryVTT-BetterRolls5e/master/betterrolls5e/module.json",
+	"download": "https://github.com/RedReign/FoundryVTT-BetterRolls5e/raw/master/betterrolls5e.zip"
+}
